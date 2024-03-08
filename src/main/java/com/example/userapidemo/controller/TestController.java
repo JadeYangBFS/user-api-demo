@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping
     public String helloWorld() {
-        return "Bonsoir, Welcome to the world of CI/CD!!!";
+        return "Bonsoir et bonjour, Welcome to the world of CI/CD!!!";
     }
 
 }
