@@ -8,6 +8,7 @@ class UserApiDemoApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("something new");
     }
 
 }
